@@ -22,53 +22,53 @@ with open(usersettings) as f:
 
 def open_Fortnite():
 
-  os.startfile(r"C:\Users\Kiman\Desktop\Fortnite.url")
+  os.startfile(#enter dir)
 
 def open_roblox():
 
-  os.startfile(r"C:\Users\Kiman\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Roblox\Roblox Player.lnk")
+  os.startfile(#enter dir))
 
 def open_overwatch():
 
-  os.startfile(r"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Overwatch\Overwatch.lnk")
+  os.startfile(#enter dir))
 
 def open_r6():
-  os.startfile(r"C:\Users\Kiman\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\Apex Legends.url")
+  os.startfile(#enter dir))
 
 
 #====================================================================================================
 
 def open_sp():
 
-  os.startfile(r"C:\Users\Kiman\Desktop\Spotify.lnk")
+  os.startfile(#enter dir))
 
 def open_discord():
 
-  os.startfile(r"C:\Users\Kiman\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc\Discord.lnk")
+  os.startfile(#enter dir))
 
 def open_vsc():
 
-  os.startfile(r"C:\Users\Kiman\Desktop\Visual Studio Code.lnk")
+  os.startfile(#enter dir)")
 
 def open_ubisoft():
 
-  os.startfile(r"C:\Users\Kiman\Desktop\Ubisoft Connect.lnk")
+  os.startfile(#enter dir))
 
 def open_battlenet():
-  os.startfile(r"C:\Users\Public\Desktop\Battle.net.lnk")
+  os.startfile(#enter dir))
 
 def open_4anime():
 
   webbrowser.open_new_tab("4anime.gg/")
 
 def fps():
-  os.startfile(r"C:\Users\Kiman\Downloads\rbxfpsunlocker-x64 (5)\rbxfpsunlocker.exe")
+  os.startfile(#enter dir))
 
 def bm():
-  os.startfile(r"C:\Users\Kiman\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\BakkesModSetup.lnk")
+  os.startfile(#enter dir))
 
 def tModLoader():
-  os.startfile(r"C:\Users\Kiman\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\tModLoader.url")
+  os.startfile(#enter dir))
 
 def commandpanel():
   newWindow = Toplevel(window)
