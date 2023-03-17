@@ -8,14 +8,14 @@ import os
 window = tk.Tk()
 window.geometry("500x200")
 window.title("menu startfile")
-logo = PhotoImage(file=r'C:\Users\Kiman\Downloads\KanaLauncher\krnlll.png')
+logo = PhotoImage(file=#enter dir for logo image')
 window.wm_iconphoto(True, logo) 
 
 def open_launcher():
-    os.startfile(r"C:\Users\Kiman\Downloads\KanaLauncher\GameLauncehr.py")
+    os.startfile(#enter dir for GameLauncehr.py")
 
 def open_speedtest():
-    os.startfile(r"C:\Users\Kiman\Downloads\KanaLauncher\speedtest.py")
+    os.startfile(#enter dir for speedtest.py")
 
 frame = LabelFrame(text="      Types      ", padx=125, pady=15)
 frame.pack()
