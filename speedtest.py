@@ -9,7 +9,7 @@ import speedtest as speedtest
 window = tk.Tk()
 window.geometry("600x850")
 window.title("Speedtest")
-logo = PhotoImage(file=r'C:\Users\Kiman\Downloads\KanaLauncher\krnlll.png')
+logo = PhotoImage(file=() #import file directory
 window.wm_iconphoto(True, logo)
 
 speed_test = speedtest.Speedtest()
