@@ -27,5 +27,5 @@ for file in files:
     with open(file, "wb") as thefile:
         thefile.write(contents_encrypted)
 
-
+        
 print("Encrypted.")
