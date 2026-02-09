@@ -1,8 +1,8 @@
 # KanaWare v1.2
 
-KanaWare v1.2 is a **personal utility toolbox** made up of small Python and VBScript programs that automate simple tasks, display messages, and launch applications.
+KanaWare v1.2 is a **personal utility toolbox** made up of small Python and VBScript programs that automate simple tasks like opening games from the homescreen of my computer, display messages, and launching other applications.
 
-This repository is not a single monolithic application — it’s a collection of scripts created to experiment with automation, scripting, and basic system utilities.
+*This repository is not a single monolithic application — it’s a collection of scripts created to experiment with automation, scripting, and basic system utilities.*
 
 ---
 
